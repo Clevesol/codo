@@ -1,2 +1,2 @@
 # codo
-A Java Based Business Solution for todays business needs
+A Java Based <strong>Business Solution</strong> for todays business needs
