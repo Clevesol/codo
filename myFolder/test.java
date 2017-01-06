@@ -1,8 +1,7 @@
-public class test{
+public class Test{
     
-    public static void main(String args[]){
-        
-        System.out.println("veru first time working in a cloud ide woow that was amazing and a nice experiencing");
+    
+    public void initRepo(){
+        System.out.println("repo initialized");
     }
-    
 }
